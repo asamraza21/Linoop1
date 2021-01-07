@@ -3,3 +3,4 @@ yum update
 pwd
 ls
 lsblk
+echo "========================= go home now"
