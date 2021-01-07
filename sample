@@ -1,0 +1,5 @@
+df -h
+hostname -I
+hostname
+ping google.com -t
+ls -ilh
