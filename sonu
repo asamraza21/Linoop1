@@ -1,0 +1,6 @@
+!#/bin/bash
+df -h
+ls
+lsblk
+pwd
+ping google.com -t
