@@ -1,5 +1,6 @@
-df -h
+!#/bin/bash
 hostname -I
 hostname
 ping google.com -t
 ls -ilh
+df -h
